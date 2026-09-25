@@ -1,24 +1,23 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/circuit-flow.svg" width="100%" alt="Akshay Manoj KP" />
 
-  <!-- ============ PREMIUM TECH BADGES ============ -->
   <p>
-    <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-070b1f?style=for-the-badge&logo=next.js&logoColor=00F5D4" alt="Next.js" /></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-070b1f?style=for-the-badge&logo=typescript&logoColor=A78BFA" alt="TypeScript" /></a>
-    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-070b1f?style=for-the-badge&logo=tailwindcss&logoColor=00F5D4" alt="Tailwind CSS" /></a>
-    <a href="https://www.framer.com/motion/"><img src="https://img.shields.io/badge/Framer%20Motion-070b1f?style=for-the-badge&logo=framer&logoColor=FACC15" alt="Framer Motion" /></a>
-    <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-070b1f?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel" /></a>
-    <a href="https://www.deepseek.com/"><img src="https://img.shields.io/badge/DeepSeek-070b1f?style=for-the-badge&logo=openai&logoColor=00F5D4" alt="DeepSeek" /></a>
+    <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js" /></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" /></a>
+    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="Tailwind CSS" /></a>
+    <a href="https://www.framer.com/motion/"><img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=ffffff" alt="Framer Motion" /></a>
+    <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel" /></a>
+    <a href="https://www.deepseek.com/"><img src="https://img.shields.io/badge/DeepSeek-0A0F1E?style=for-the-badge&logoColor=4D6BFE" alt="DeepSeek" /></a>
+    <h2>TMai</h2>
   </p>
+  
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F5D4&center=true&vCenter=true&width=920&lines=AI+SUBLAYER+EXPLORER;FULL-STACK+DEV;MECHANICAL+ENGINEER;BUSSINES+DEVLOPMENT+%7C+B2B+%7C+B2C+%7C+CRM;Exploring+systems+that+create+value" alt="Animated profile roles" />
+</div>
 
-  <!-- ============ HERO ============ -->
   <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/teramyst-hero.svg" width="100%" alt="TeraMyst futuristic developer command center" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F5D4&center=true&vCenter=true&width=920&lines=AI+product+builder;Full-stack+developer;Mechanical+engineer+mindset;Business+%7C+B2B+%7C+B2C+%7C+CRM;Exploring+systems+that+create+value" alt="Animated profile roles" />
-  <h2>TeraMyst</h2>
-</div>
 
 <p align="center">
   <a href="https://akshayofficial.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=070b1f" alt="Portfolio" /></a>
@@ -26,70 +25,50 @@
   <a href="https://github.com/AkshayManojkp?tab=repositories"><img src="https://img.shields.io/github/stars/AkshayManojkp?affiliations=OWNER&style=for-the-badge&color=FACC15&labelColor=070b1f&label=STARS" alt="GitHub stars" /></a>
 </p>
 
-## IDENTITY
+<!-- ============ WELCOME NOTE ============ -->
+<div align="center">
 
-I’m Akshay Manoj KP — a builder working across software, AI, product design, engineering, and business. I turn complex problems into useful digital systems and product experiences.
+### 🌌 Welcome to my digital universe / 私のデジタル宇宙へようこそ
 
-## Current orbit
+*Where the quest for magic meets the rigor of engineering — and Artificial Intelligence bridges imagination with reality.* / *ここでは「魔法の探求」と「エンジニアリングの精密さ」が出会い、人工知能が想像と現実を結ぶ架け橋となります。*
+
+</div>
+<!-- ============ END WELCOME NOTE ============ -->
+
+<img src="https://img.shields.io/badge/🛰️_CURRENT-ORBIT-070b1f?style=for-the-badge&labelColor=070b1f&color=DC2626" />
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="33%" valign="top" align="center" style="padding: 18px; border: 1px solid rgba(103,232,249,0.5); background: rgba(9,17,31,0.8); border-radius: 12px;">
-        <h3>Building</h3>
-        <p>AI-powered product experiences<br>Full-stack applications<br>Automation and CRM workflows</p>
-      </td>
-      <td width="33%" valign="top" align="center" style="padding: 18px; border: 1px solid rgba(103,232,249,0.5); background: rgba(9,17,31,0.8); border-radius: 12px;">
-        <h3>Learning</h3>
-        <p>Machine learning systems<br>Product architecture<br>Scalable backend design</p>
-      </td>
-      <td width="33%" valign="top" align="center" style="padding: 18px; border: 1px solid rgba(103,232,249,0.5); background: rgba(9,17,31,0.8); border-radius: 12px;">
-        <h3>Looking for</h3>
-        <p>Useful problems<br>Strong collaborators<br>Open-source opportunities</p>
-      </td>
-    </tr>
-  </table>
-</div>
 
-## Product system
+<img src="https://img.shields.io/badge/🔨_BUILDING-AI_Products_·_Full--stack_·_Automation-00F5D4?style=for-the-badge&labelColor=070b1f" alt="Building" />
+<br><br>
+<img src="https://img.shields.io/badge/📡_LEARNING-ML_Systems_·_Architecture_·_Backend-A78BFA?style=for-the-badge&labelColor=070b1f" alt="Learning" />
+<br><br>
+<img src="https://img.shields.io/badge/🎯_SEEKING-Useful_Problems_·_Collaborators_·_OSS-FACC15?style=for-the-badge&labelColor=070b1f" alt="Seeking" />
+</div>
+<P>
+</P>
+<!-- ============ orbit ============ -->
+
+<img src="https://img.shields.io/badge/⚙️_SYSTEM-ARCHITECTURE-000000?style=for-the-badge&labelColor=000000&color=00C853" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/product-system.svg" width="100%" alt="Product system map" />
+    
 </div>
+<p>
+    
+</p>
 
-## Selected work
+<!-- ============ SYS ============ -->
 
-<div align="center" style="position: relative; background: rgba(7,11,31,0.9); border: 1px solid rgba(103,232,249,0.4); border-radius: 18px; padding: 18px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/projects-matrix.svg" width="100%" alt="Binary background animation behind selected work" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.8;" />
-  <div style="position: relative; z-index: 1;">
-    <table width="100%" cellspacing="18" cellpadding="12">
-      <tr>
-        <td width="50%" valign="top" style="background: rgba(7,18,32,0.55); border: 1px solid rgba(103,232,249,0.35); border-radius: 12px; padding: 18px;">
-          <strong>Open Higgsfield</strong><br>
-          A studio for image and video generation, model settings, and finished-run storytelling.<br><br>
-          <a href="https://github.com/AkshayManojkp/open-higgsfield">Repository ↗</a>
-        </td>
-        <td width="50%" valign="top" style="background: rgba(7,18,32,0.55); border: 1px solid rgba(103,232,249,0.35); border-radius: 12px; padding: 18px;">
-          <strong>Personal Agent Template</strong><br>
-          A durable AI agent template with web chat, integrations, auth, and memory.<br><br>
-          <a href="https://github.com/AkshayManojkp/personal-agent-template">Repository ↗</a>
-        </td>
-      </tr>
-      <tr>
-        <td width="50%" valign="top" style="background: rgba(7,18,32,0.55); border: 1px solid rgba(103,232,249,0.35); border-radius: 12px; padding: 18px;">
-          <strong>Team2 App</strong><br>
-          A Next.js App Router and MongoDB template for product-driven web development.<br><br>
-          <a href="https://github.com/AkshayManojkp/Team2-app">Repository ↗</a>
-        </td>
-        <td width="50%" valign="top" style="background: rgba(7,18,32,0.55); border: 1px solid rgba(103,232,249,0.35); border-radius: 12px; padding: 18px;">
-          <strong>Tera</strong><br>
-          A TypeScript product-focused app experience centered on clarity and utility.<br><br>
-          <a href="https://github.com/AkshayManojkp/Tera">Repository ↗</a>
-        </td>
-      </tr>
-    </table>
-  </div>
+<img src="https://img.shields.io/badge/🚀_CURRENT-FOCUS-070b1f?style=for-the-badge&labelColor=070b1f&color=00F5D4" />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/projects-matrix.svg" width="100%" alt="Binary flow animation" />
 </div>
+<p>
+    
+</p>
 
 ## Tools I use
 
