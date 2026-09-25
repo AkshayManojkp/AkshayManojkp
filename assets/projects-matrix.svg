@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-label="Featured projects displayed over animated falling binary code">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".5" stop-color="#052e2b"/><stop offset="1" stop-color="#020617"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#22c55e" stroke-opacity=".08"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="430" rx="22" fill="url(#bg)"/><rect width="1200" height="430" rx="22" fill="url(#grid)"/>
+  <g fill="#22c55e" font-family="monospace" font-size="15" opacity=".42" filter="url(#glow)">
+    <text x="35" y="-20">010101 001101 110010<animate attributeName="y" from="-20" to="450" dur="6s" repeatCount="indefinite"/></text>
+    <text x="180" y="-110">110100 010101 001110<animate attributeName="y" from="-110" to="450" dur="7.2s" repeatCount="indefinite"/></text>
+    <text x="350" y="-55">001101 110010 101100<animate attributeName="y" from="-55" to="450" dur="5.6s" repeatCount="indefinite"/></text>
+    <text x="535" y="-180">010010 111001 010100<animate attributeName="y" from="-180" to="450" dur="8s" repeatCount="indefinite"/></text>
+    <text x="720" y="-70">101101 001010 110100<animate attributeName="y" from="-70" to="450" dur="6.5s" repeatCount="indefinite"/></text>
+    <text x="910" y="-140">011010 101101 001101<animate attributeName="y" from="-140" to="450" dur="7.6s" repeatCount="indefinite"/></text>
+    <text x="1080" y="-25">110010 010110 101001<animate attributeName="y" from="-25" to="450" dur="5.9s" repeatCount="indefinite"/></text>
+  </g>
+  <rect x="34" y="30" width="1132" height="370" rx="18" fill="#020617" fill-opacity=".78" stroke="#22c55e" stroke-opacity=".6"/>
+  <g font-family="monospace" fill="#e2e8f0"><text x="72" y="78" font-size="17" fill="#22c55e">&gt; projects --featured</text><text x="72" y="112" font-size="14" fill="#94a3b8">selected builds // product systems // AI experiments</text>
+    <text x="78" y="174" font-size="22" fill="#67e8f9">01  Open Higgsfield</text><text x="78" y="202" font-size="14">Image/video generation studio with model settings and a run gallery.</text><text x="78" y="229" font-size="13" fill="#22c55e">github.com/AkshayManojkp/open-higgsfield</text>
+    <text x="625" y="174" font-size="22" fill="#67e8f9">02  Personal Agent</text><text x="625" y="202" font-size="14">AI agent template with chat, integrations, auth, and memory.</text><text x="625" y="229" font-size="13" fill="#22c55e">github.com/AkshayManojkp/personal-agent-template</text>
+    <text x="78" y="292" font-size="22" fill="#67e8f9">03  Team2 App</text><text x="78" y="320" font-size="14">Next.js App Router and MongoDB application template.</text><text x="78" y="347" font-size="13" fill="#22c55e">github.com/AkshayManojkp/Team2-app</text>
+    <text x="625" y="292" font-size="22" fill="#67e8f9">04  Tera</text><text x="625" y="320" font-size="14">TypeScript product-focused application experience.</text><text x="625" y="347" font-size="13" fill="#22c55e">github.com/AkshayManojkp/Tera</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="428" rx="22" fill="none" stroke="#22c55e" stroke-opacity=".5"/>
+</svg>

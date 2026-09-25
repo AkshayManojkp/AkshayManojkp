@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/matrix.svg" width="100%" alt="Animated falling matrix code" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:064e3b,100:22c55e&height=230&section=header&text=AKSHAY%20MANOJ%20KP&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=%E2%96%88%E2%96%91%20FULL-STACK%20%2F%2F%20AI%20BUILDER%20%E2%96%91%E2%96%88&descAlignY=62&descSize=17&animation=fadeIn" width="100%" alt="Futuristic profile header" />
 </div>
 
 <div align="center">
-  <h1>AKSHAY MANOJ KP</h1>
-  <h2>TERAMYST</h2>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=22C55E&background=02061700&center=true&vCenter=true&width=900&lines=%3E%3E+Sublayer+Explorer;%3E%3E+AI+Machine+Learner;%3E%3E+Developer;%3E%3E+Mechanical+Engineer;%3E%3E+Business+Developer;%3E%3E+B2B+%7C+B2C+%7C+CRM;%3E%3E+system+online+%E2%9C%93" alt="Animated professional titles" />
+  <h2>TeraMyst</h2>
 </div>
 
 <p align="center">
@@ -15,7 +14,7 @@
 
 ## `> about --me`
 
-I’m **Akshay Manoj KP**, known as **TeraMyst**—a developer and builder exploring the intersection of software, AI, engineering, and business. I create practical digital products, experiment with intelligent workflows, and turn ideas into useful experiences.
+I’m **Akshay Manoj KP**, known as **TeraMyst**—a developer and builder exploring software, AI, engineering, and business. I create practical digital products, experiment with intelligent workflows, and turn ideas into useful experiences.
 
 - 🚀 Full-stack development with **TypeScript, Next.js, and MongoDB**
 - 🤖 AI products, machine learning, automation, and developer tools
@@ -23,40 +22,33 @@ I’m **Akshay Manoj KP**, known as **TeraMyst**—a developer and builder explo
 - 💼 Business development across **B2B, B2C, and CRM** experiences
 - 🤝 Open to collaboration on useful products and open source
 
-## `> stack --scan`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,python,tailwind,git,github,figma,vercel&perline=7" alt="Technology icons" />
-</p>
-
 ## `> projects --featured`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 Open Higgsfield</h3>
-      <p>A studio for image and video generation with model-specific settings and a gallery for completed runs.</p>
-      <a href="https://github.com/AkshayManojkp/open-higgsfield">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Personal Agent Template</h3>
-      <p>An open-source personal AI agent template with web chat, integrations, authentication, and long-term memory.</p>
-      <a href="https://github.com/AkshayManojkp/personal-agent-template">View repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Team2 App</h3>
-      <p>A Next.js application template using the App Router and MongoDB for modern web applications.</p>
-      <a href="https://github.com/AkshayManojkp/Team2-app">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Tera</h3>
-      <p>A TypeScript project focused on creating a useful, product-oriented application experience.</p>
-      <a href="https://github.com/AkshayManojkp/Tera">View repository →</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/projects-matrix.svg" width="100%" alt="Featured projects over animated falling binary code" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/AkshayManojkp/open-higgsfield">🎨 Open Higgsfield</a> ·
+  <a href="https://github.com/AkshayManojkp/personal-agent-template">🤖 Personal Agent</a> ·
+  <a href="https://github.com/AkshayManojkp/Team2-app">⚡ Team2 App</a> ·
+  <a href="https://github.com/AkshayManojkp/Tera">🧠 Tera</a>
+</p>
+
+## `> stack --scan`
+
+<p align="center"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,python,tailwind,git,github,figma,vercel&perline=7" alt="Technology icons" /></p>
+
+## `> contributions --live`
+
+<div align="center">
+  <a href="https://github.com/AkshayManojkp?tab=overview"><img src="https://ghchart.rshah.org/22c55e/AkshayManojkp" alt="Akshay's GitHub contribution graph" /></a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/AkshayManojkp?tab=overview"><img src="https://img.shields.io/github/commit-activity/y/AkshayManojkp?style=for-the-badge&color=22c55e&labelColor=020617&label=COMMITS%20%2F%20YEAR" alt="Yearly commits" /></a>
+  <a href="https://github.com/AkshayManojkp?tab=repositories"><img src="https://img.shields.io/github/last-commit/AkshayManojkp/AkshayManojkp?style=for-the-badge&color=06b6d4&labelColor=020617&label=LAST%20UPDATE" alt="Last update" /></a>
+</p>
 
 ## `> connect --all`
 
@@ -71,8 +63,5 @@ I’m **Akshay Manoj KP**, known as **TeraMyst**—a developer and builder explo
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AkshayManojkp&style=for-the-badge&color=22c55e&labelColor=020617&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/matrix.svg" width="100%" alt="Animated matrix footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,35:064e3b,70:0f172a,100:020617&height=100&section=footer" width="100%" alt="Futuristic profile footer" />
 </div>
