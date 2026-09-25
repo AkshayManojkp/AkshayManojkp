@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
+  <h1>AKSHAY MANOJ KP</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F5D4&center=true&vCenter=true&width=920&lines=AI+product+builder;Full-stack+developer;Mechanical+engineer+mindset;Business+%7C+B2B+%7C+B2C+%7C+CRM;Exploring+systems+that+create+value" alt="Animated profile roles" />
+  <h2>TeraMyst</h2>
 </div>
 
 <p align="center">
@@ -12,19 +14,30 @@
   <a href="https://github.com/AkshayManojkp?tab=repositories"><img src="https://img.shields.io/github/stars/AkshayManojkp?affiliations=OWNER&style=for-the-badge&color=FACC15&labelColor=070b1f&label=STARS" alt="GitHub stars" /></a>
 </p>
 
-<h2 align="center">TeraMyst</h2>
-
 ## Identity
 
 I’m Akshay Manoj KP — a builder working across software, AI, product design, engineering, and business. I turn complex problems into useful digital systems and product experiences.
 
 ## Current orbit
 
-| Building | Learning | Looking for |
-| --- | --- | --- |
-| AI-powered product experiences | Machine learning systems | Useful problems |
-| Full-stack applications | Product architecture | Strong collaborators |
-| Automation and CRM workflows | Scalable backend design | Open-source opportunities |
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" valign="top" align="center" style="padding: 18px; border: 1px solid rgba(103,232,249,0.5); background: rgba(9,17,31,0.8); border-radius: 12px;">
+        <h3>Building</h3>
+        <p>AI-powered product experiences<br>Full-stack applications<br>Automation and CRM workflows</p>
+      </td>
+      <td width="33%" valign="top" align="center" style="padding: 18px; border: 1px solid rgba(103,232,249,0.5); background: rgba(9,17,31,0.8); border-radius: 12px;">
+        <h3>Learning</h3>
+        <p>Machine learning systems<br>Product architecture<br>Scalable backend design</p>
+      </td>
+      <td width="33%" valign="top" align="center" style="padding: 18px; border: 1px solid rgba(103,232,249,0.5); background: rgba(9,17,31,0.8); border-radius: 12px;">
+        <h3>Looking for</h3>
+        <p>Useful problems<br>Strong collaborators<br>Open-source opportunities</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Product system
 
@@ -34,32 +47,37 @@ I’m Akshay Manoj KP — a builder working across software, AI, product design,
 
 ## Selected work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Open Higgsfield</strong><br>
-      A studio for image and video generation, model settings, and finished-run storytelling.<br><br>
-      <a href="https://github.com/AkshayManojkp/open-higgsfield">Repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Personal Agent Template</strong><br>
-      A durable AI agent template with web chat, integrations, auth, and memory.<br><br>
-      <a href="https://github.com/AkshayManojkp/personal-agent-template">Repository ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Team2 App</strong><br>
-      A Next.js App Router and MongoDB template for product-driven web development.<br><br>
-      <a href="https://github.com/AkshayManojkp/Team2-app">Repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Tera</strong><br>
-      A TypeScript product-focused app experience centered on clarity and utility.<br><br>
-      <a href="https://github.com/AkshayManojkp/Tera">Repository ↗</a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="position: relative; background: rgba(7,11,31,0.9); border: 1px solid rgba(103,232,249,0.4); border-radius: 18px; padding: 18px; overflow: hidden;">
+  <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/projects-matrix.svg" width="100%" alt="Binary background animation behind selected work" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.8;" />
+  <div style="position: relative; z-index: 1;">
+    <table width="100%" cellspacing="18" cellpadding="12">
+      <tr>
+        <td width="50%" valign="top" style="background: rgba(7,18,32,0.55); border: 1px solid rgba(103,232,249,0.35); border-radius: 12px; padding: 18px;">
+          <strong>Open Higgsfield</strong><br>
+          A studio for image and video generation, model settings, and finished-run storytelling.<br><br>
+          <a href="https://github.com/AkshayManojkp/open-higgsfield">Repository ↗</a>
+        </td>
+        <td width="50%" valign="top" style="background: rgba(7,18,32,0.55); border: 1px solid rgba(103,232,249,0.35); border-radius: 12px; padding: 18px;">
+          <strong>Personal Agent Template</strong><br>
+          A durable AI agent template with web chat, integrations, auth, and memory.<br><br>
+          <a href="https://github.com/AkshayManojkp/personal-agent-template">Repository ↗</a>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%" valign="top" style="background: rgba(7,18,32,0.55); border: 1px solid rgba(103,232,249,0.35); border-radius: 12px; padding: 18px;">
+          <strong>Team2 App</strong><br>
+          A Next.js App Router and MongoDB template for product-driven web development.<br><br>
+          <a href="https://github.com/AkshayManojkp/Team2-app">Repository ↗</a>
+        </td>
+        <td width="50%" valign="top" style="background: rgba(7,18,32,0.55); border: 1px solid rgba(103,232,249,0.35); border-radius: 12px; padding: 18px;">
+          <strong>Tera</strong><br>
+          A TypeScript product-focused app experience centered on clarity and utility.<br><br>
+          <a href="https://github.com/AkshayManojkp/Tera">Repository ↗</a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 
 ## Tools I use
 
