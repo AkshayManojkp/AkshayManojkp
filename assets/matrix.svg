@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="Animated falling matrix code background">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="1" stop-color="#001a12"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#22c55e" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <rect width="1200" height="260" fill="url(#grid)"/>
+  <g fill="#22c55e" font-family="monospace" font-size="17" filter="url(#glow)" opacity=".72">
+    <text x="28" y="-20"><animate attributeName="y" from="-20" to="285" dur="5.8s" repeatCount="indefinite"/>010101 001101 110010 010110</text>
+    <text x="170" y="-170"><animate attributeName="y" from="-170" to="285" dur="7.1s" repeatCount="indefinite"/>101001 011010 001011 110101</text>
+    <text x="330" y="-80"><animate attributeName="y" from="-80" to="285" dur="6.3s" repeatCount="indefinite"/>001101 110010 101100 010011</text>
+    <text x="500" y="-210"><animate attributeName="y" from="-210" to="285" dur="8s" repeatCount="indefinite"/>110100 010101 001110 101011</text>
+    <text x="680" y="-50"><animate attributeName="y" from="-50" to="285" dur="5.4s" repeatCount="indefinite"/>010010 111001 010100 110010</text>
+    <text x="850" y="-150"><animate attributeName="y" from="-150" to="285" dur="6.8s" repeatCount="indefinite"/>101101 001010 110100 011001</text>
+    <text x="1040" y="-100"><animate attributeName="y" from="-100" to="285" dur="7.6s" repeatCount="indefinite"/>011010 101101 001101 110010</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="258" rx="18" fill="none" stroke="#22c55e" stroke-opacity=".45"/>
+</svg>
