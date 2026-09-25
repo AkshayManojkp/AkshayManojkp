@@ -1,56 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" preserveAspectRatio="none">
   <defs>
-    <!-- ============ SOFT WAVE (center accent) ============ -->
+    <!-- Soft Wave -->
     <linearGradient id="softWave" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#00F5D4" stop-opacity="0"/>
       <stop offset="50%"  stop-color="#00F5D4" stop-opacity="0.55"/>
       <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
     </linearGradient>
 
-    <!-- ============ FAINT CIRCUIT ============ -->
+    <!-- Faint Circuit -->
     <linearGradient id="faintCircuit" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%"   stop-color="#0b1230"/>
       <stop offset="100%" stop-color="#070b1f"/>
     </linearGradient>
 
-    <!-- ============ HEADER BASE GLOW (teal on right) ============ -->
-    <linearGradient id="headerBase" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#050816"/>
-      <stop offset="50%"  stop-color="#071a2a"/>
-      <stop offset="100%" stop-color="#14E0C8" stop-opacity="0.20"/>
-    </linearGradient>
-
-    <!-- ============ BOTTOM WAVE ============ -->
-    <linearGradient id="waveTeal" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#050816" stop-opacity="0"/>
-      <stop offset="40%"  stop-color="#0b3a4a" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#14E0C8" stop-opacity="0.9"/>
-    </linearGradient>
-
-    <!-- ============ SOFT RADIAL HALO (replaces hard scrim) ============ -->
-    <radialGradient id="textHalo" cx="50%" cy="52%" r="42%">
-      <stop offset="0%"   stop-color="#050816" stop-opacity="0.85"/>
-      <stop offset="55%"  stop-color="#050816" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#050816" stop-opacity="0"/>
-    </radialGradient>
-
-    <!-- ============ TEXT GLOW ============ -->
+    <!-- Text Glow -->
     <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+
+    <!-- Soft dark halo behind name -->
+    <radialGradient id="nameHalo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#050816" stop-opacity="0.7"/>
+      <stop offset="70%"  stop-color="#050816" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#050816" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- RGB Split Filters -->
+    <filter id="toRed">
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1 0"/>
+    </filter>
+    <filter id="toCyan">
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+    </filter>
   </defs>
 
-  <!-- ============ BASE LAYER ============ -->
-  <rect width="1200" height="420" fill="#050816"/>
-  <rect width="1200" height="420" fill="url(#headerBase)"/>
+  <!-- ============ TRANSPARENT BACKGROUND (no rect) ============ -->
 
-  <!-- ============ FAINT CIRCUIT TRACES (static) ============ -->
+  <!-- ============ FAINT CIRCUIT TRACES ============ -->
   <g stroke="url(#faintCircuit)" stroke-width="1.2" fill="none"
-     stroke-linecap="square" stroke-linejoin="miter" opacity="0.35">
+     stroke-linecap="square" stroke-linejoin="miter" opacity="0.55">
     <path d="M0 60  H280 L320 100 H640 L680 60  H1200"/>
     <path d="M0 140 H180 L220 100 H480 L520 140 H860 L900 100 H1200"/>
     <path d="M0 220 H360 L400 180 H720 L760 220 H1040 L1080 180 H1200"/>
@@ -63,17 +55,16 @@
     <path d="M1120 0 V180 L1160 220 V420"/>
   </g>
 
-  <!-- ============ STATIC NODES / VIAS ============ -->
-  <g fill="#0e1a3a" opacity="0.5">
+  <!-- ============ STATIC NODES ============ -->
+  <g fill="#0e1a3a" opacity="0.7">
     <circle cx="280" cy="60" r="3"/><circle cx="640" cy="60" r="3"/>
     <circle cx="180" cy="140" r="3"/><circle cx="520" cy="140" r="3"/>
     <circle cx="900" cy="100" r="3"/><circle cx="360" cy="220" r="3"/>
     <circle cx="760" cy="220" r="3"/><circle cx="1080" cy="180" r="3"/>
     <circle cx="560" cy="300" r="3"/><circle cx="960" cy="300" r="3"/>
-    <circle cx="420" cy="370" r="3"/><circle cx="860" cy="370" r="3"/>
   </g>
 
-  <!-- ============ SOFT WAVE (animated center accent) ============ -->
+  <!-- ============ SOFT WAVE (animated) ============ -->
   <path d="M0 260 Q300 190 600 260 T1200 260" fill="none"
         stroke="url(#softWave)" stroke-width="2" filter="url(#textGlow)">
     <animate attributeName="d"
@@ -83,38 +74,80 @@
              dur="10s" repeatCount="indefinite"/>
   </path>
 
-  <!-- ============ SOFT RADIAL HALO (replaces hard black box) ============ -->
-  <ellipse cx="600" cy="220" rx="620" ry="140" fill="url(#textHalo)"/>
+  <!-- ============ SOFT HALO BEHIND NAME ============ -->
+  <ellipse cx="600" cy="210" rx="520" ry="120" fill="url(#nameHalo)"/>
 
-  <!-- ============ MAIN NAME ============ -->
-  <text x="600" y="205"
-        font-family="'Inter','Helvetica Neue',Arial,sans-serif"
-        font-size="72"
-        font-weight="800"
-        text-anchor="middle"
-        fill="#ffffff"
-        filter="url(#textGlow)"
-        letter-spacing="6">
-    AKSHAY MANOJ KP
-  </text>
+  <!-- ============================================ -->
+  <!-- ============ NAME WITH GLITCH ============== -->
+  <!-- ============================================ -->
 
-  <!-- ============ JAPANESE SUBTITLE ============ -->
-  <text x="600" y="252"
-        font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic',sans-serif"
-        font-size="22"
-        font-weight="400"
-        text-anchor="middle"
-        fill="#8a92a6"
-        letter-spacing="6">
-    アクシャイ・マノージ・KP
-  </text>
+  <!-- Base layer — jitters during glitch -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 0; -3 1; 3 -1; -2 1; 2 -1; 0 0; 0 0"
+      keyTimes="0; 0.88; 0.90; 0.92; 0.94; 0.96; 0.98; 1"
+      dur="3s" repeatCount="indefinite"/>
 
-  <!-- ============ ACCENT DOTS ============ -->
-  <circle cx="450" cy="275" r="2" fill="#00F5D4" opacity="0.8"/>
-  <circle cx="750" cy="275" r="2" fill="#00F5D4" opacity="0.8"/>
+    <!-- English name — main -->
+    <text x="600" y="200"
+          font-family="'Inter','Helvetica Neue',Arial,sans-serif"
+          font-size="72"
+          font-weight="800"
+          text-anchor="middle"
+          fill="#ffffff"
+          filter="url(#textGlow)"
+          letter-spacing="6">
+      AKSHAY MANOJ KP
+    </text>
 
-  <!-- ============ BOTTOM WAVE ============ -->
-  <path d="M0 380 Q300 340 600 370 T1200 340 L1200 420 L0 420 Z"
-        fill="url(#waveTeal)"/>
+    <!-- Japanese tagline — 魔法を求めて (In Search of Magic) -->
+    <text x="600" y="252"
+          font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic',sans-serif"
+          font-size="24"
+          font-weight="600"
+          text-anchor="middle"
+          fill="#00F5D4"
+          letter-spacing="8">
+      魔法を求めて
+    </text>
+
+    <!-- Accent dots -->
+    <circle cx="450" cy="275" r="2" fill="#00F5D4" opacity="0.9"/>
+    <circle cx="750" cy="275" r="2" fill="#00F5D4" opacity="0.9"/>
+  </g>
+
+  <!-- Red ghost layer — appears during glitch -->
+  <g opacity="0" filter="url(#toRed)">
+    <animate attributeName="opacity" values="0; 0; 0.65; 0.65; 0; 0"
+      keyTimes="0; 0.88; 0.90; 0.96; 0.98; 1" dur="3s" repeatCount="indefinite"/>
+    <g transform="translate(-5 0)">
+      <text x="600" y="200"
+            font-family="'Inter','Helvetica Neue',Arial,sans-serif"
+            font-size="72"
+            font-weight="800"
+            text-anchor="middle"
+            fill="#ffffff"
+            letter-spacing="6">
+        AKSHAY MANOJ KP
+      </text>
+    </g>
+  </g>
+
+  <!-- Cyan ghost layer — appears during glitch -->
+  <g opacity="0" filter="url(#toCyan)">
+    <animate attributeName="opacity" values="0; 0; 0.65; 0.65; 0; 0"
+      keyTimes="0; 0.88; 0.90; 0.96; 0.98; 1" dur="3s" repeatCount="indefinite"/>
+    <g transform="translate(5 0)">
+      <text x="600" y="200"
+            font-family="'Inter','Helvetica Neue',Arial,sans-serif"
+            font-size="72"
+            font-weight="800"
+            text-anchor="middle"
+            fill="#ffffff"
+            letter-spacing="6">
+        AKSHAY MANOJ KP
+      </text>
+    </g>
+  </g>
 
 </svg>
