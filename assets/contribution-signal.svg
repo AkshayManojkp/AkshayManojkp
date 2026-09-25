@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-label="Contribution activity meter with animated path">
+  <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0b1027"/><stop offset="1" stop-color="#062b2b"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect width="1200" height="250" rx="22" fill="url(#b)"/>
+  <text x="42" y="45" fill="#67e8f9" font-family="monospace" font-size="16">CONTRIBUTION SIGNAL</text><text x="42" y="72" fill="#64748b" font-family="monospace" font-size="13">consistency compounds into capability</text>
+  <path d="M70 170 C180 95 250 205 360 135 S540 90 650 155 S840 220 950 125 S1080 105 1130 150" fill="none" stroke="#164e63" stroke-width="10" stroke-linecap="round"/>
+  <path d="M70 170 C180 95 250 205 360 135 S540 90 650 155 S840 220 950 125 S1080 105 1130 150" fill="none" stroke="#00f5d4" stroke-width="4" stroke-linecap="round" stroke-dasharray="24 900" filter="url(#g)"><animate attributeName="stroke-dashoffset" from="0" to="-924" dur="5s" repeatCount="indefinite"/></path>
+  <circle r="9" fill="#a78bfa" filter="url(#g)"><animateMotion dur="5s" repeatCount="indefinite" path="M70 170 C180 95 250 205 360 135 S540 90 650 155 S840 220 950 125 S1080 105 1130 150"/></circle>
+  <g fill="#22d3ee" font-family="monospace" font-size="12"><text x="70" y="215">START</text><text x="1060" y="215">SHIP</text></g>
+</svg>

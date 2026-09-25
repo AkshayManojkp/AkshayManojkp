@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" role="img" aria-label="TeraMyst futuristic developer command center">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".52" stop-color="#0b1230"/><stop offset="1" stop-color="#061d23"/></linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00f5d4" stop-opacity="0"/><stop offset=".5" stop-color="#00f5d4" stop-opacity=".8"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse"><path d="M56 0H0V56" fill="none" stroke="#67e8f9" stroke-opacity=".08"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1400" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1400" height="420" rx="28" fill="url(#grid)"/>
+  <g opacity=".42" fill="#00f5d4" font-family="monospace" font-size="14">
+    <text x="60" y="62">01001110 01000101 01010100 01010111 01001111 01010010 01001011</text>
+    <text x="900" y="92">001101 101001 011010 110100 010011 101101</text>
+    <text x="180" y="354">AI.SYSTEMS / PRODUCT.THINKING / HUMAN.UTILITY</text>
+    <text x="965" y="324">STATUS: BUILDING</text>
+  </g>
+  <path d="M0 300 C260 220 330 380 590 270 S1020 170 1400 270" fill="none" stroke="#7c3aed" stroke-opacity=".42" stroke-width="2"/>
+  <path d="M0 301 C260 221 330 381 590 271 S1020 171 1400 271" fill="none" stroke="#00f5d4" stroke-opacity=".8" stroke-width="2" stroke-dasharray="8 20"><animate attributeName="stroke-dashoffset" from="0" to="-280" dur="7s" repeatCount="indefinite"/></path>
+  <circle cx="720" cy="210" r="92" fill="none" stroke="#00f5d4" stroke-opacity=".2" stroke-width="1" stroke-dasharray="4 10"><animateTransform attributeName="transform" type="rotate" from="0 720 210" to="360 720 210" dur="18s" repeatCount="indefinite"/></circle>
+  <circle cx="720" cy="210" r="62" fill="#071225" stroke="#00f5d4" stroke-opacity=".7" filter="url(#glow)"/>
+  <circle cx="720" cy="210" r="8" fill="#00f5d4" filter="url(#glow)"><animate attributeName="r" values="6;12;6" dur="2.4s" repeatCount="indefinite"/></circle>
+  <rect x="75" y="118" width="1250" height="3" rx="2" fill="url(#beam)"><animate attributeName="y" values="118;290;118" dur="6s" repeatCount="indefinite"/></rect>
+  <text x="700" y="195" text-anchor="middle" fill="#ffffff" font-family="Arial,sans-serif" font-size="44" font-weight="700" letter-spacing="7">TERAMYST</text>
+  <text x="700" y="235" text-anchor="middle" fill="#a5f3fc" font-family="monospace" font-size="16" letter-spacing="3">BUILDING USEFUL INTELLIGENCE</text>
+  <rect x="1" y="1" width="1398" height="418" rx="28" fill="none" stroke="#00f5d4" stroke-opacity=".38"/>
+</svg>
