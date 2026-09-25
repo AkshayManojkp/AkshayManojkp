@@ -1,9 +1,9 @@
 <div align="center">
+  <h1>AKSHAY MANOJ KP<h1>
   <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/teramyst-hero.svg" width="100%" alt="TeraMyst futuristic developer command center" />
 </div>
 
 <div align="center">
-  <h1>AKSHAY MANOJ KP</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F5D4&center=true&vCenter=true&width=920&lines=AI+product+builder;Full-stack+developer;Mechanical+engineer+mindset;Business+%7C+B2B+%7C+B2C+%7C+CRM;Exploring+systems+that+create+value" alt="Animated profile roles" />
   <h2>TeraMyst</h2>
 </div>
@@ -14,7 +14,7 @@
   <a href="https://github.com/AkshayManojkp?tab=repositories"><img src="https://img.shields.io/github/stars/AkshayManojkp?affiliations=OWNER&style=for-the-badge&color=FACC15&labelColor=070b1f&label=STARS" alt="GitHub stars" /></a>
 </p>
 
-## Identity
+## IDENTITY
 
 I’m Akshay Manoj KP — a builder working across software, AI, product design, engineering, and business. I turn complex problems into useful digital systems and product experiences.
 
