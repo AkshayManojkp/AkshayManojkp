@@ -69,7 +69,7 @@ I’m **Akshay Manoj KP**, a developer interested in building practical, polishe
 > The unstable third-party statistics cards were removed to prevent broken images. This lightweight activity panel uses reliable badge endpoints and GitHub's own contribution graph remains visible on the profile.
 
 <p align="center">
-  <a href="https://github.com/AkshayManojkp?tab=overview&from=2026-01-01&to=2026-12-31"><img src="https://img.shields.io/github/commit-activity/m/AkshayManojkp/AkshayManojkp?style=for-the-badge&color=22c55e&labelColor=020617&label=MONTHLY%20COMMITS" alt="Monthly commit activity" /></a>
+  <a href="https://github.com/AkshayManojkp?tab=overview"><img src="https://img.shields.io/github/commit-activity/m/AkshayManojkp/AkshayManojkp?style=for-the-badge&color=22c55e&labelColor=020617&label=MONTHLY%20COMMITS" alt="Monthly commit activity" /></a>
   <a href="https://github.com/AkshayManojkp?tab=repositories"><img src="https://img.shields.io/github/last-commit/AkshayManojkp/AkshayManojkp?style=for-the-badge&color=06b6d4&labelColor=020617&label=LAST%20PROFILE%20UPDATE" alt="Last profile update" /></a>
   <a href="https://github.com/AkshayManojkp?tab=overview"><img src="https://img.shields.io/github/created-at/AkshayManojkp/AkshayManojkp?style=for-the-badge&color=a855f7&labelColor=020617&label=PROFILE%20REPO%20CREATED" alt="Profile repository created date" /></a>
 </p>
@@ -77,8 +77,12 @@ I’m **Akshay Manoj KP**, a developer interested in building practical, polishe
 ## `> connect --all`
 
 <p align="center">
-  <a href="https://github.com/AkshayManojkp"><img src="https://img.shields.io/badge/GitHub-22c55e?style=for-the-badge&logo=github&logoColor=020617&labelColor=020617" alt="GitHub profile" /></a>
-  <a href="https://www.linkedin.com/in/akshaymanojkp/"><img src="https://img.shields.io/badge/LinkedIn-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" alt="LinkedIn profile" /></a>
+  <a href="https://akshayofficial.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" alt="Personal portfolio" /></a>
+  <a href="https://github.com/AkshayManojkp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/akshay-manoj-kp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="https://bsky.app/profile/akshaymanoj.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky profile" /></a>
+  <a href="https://developers.facebook.com/Akshaymanojkp"><img src="https://img.shields.io/badge/Facebook%20Developers-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Developers profile" /></a>
+  <a href="https://www.instagram.com/akshaymanojkp/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" /></a>
 </p>
 
 <div align="center">
