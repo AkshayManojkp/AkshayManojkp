@@ -77,7 +77,7 @@
 </div>
 </p>
 
-## Contribution signal
+<img src="https://img.shields.io/badge/📊_CONTRIBUTION-SIGNAL-2B1400?style=for-the-badge&labelColor=2B1400&color=EA580C" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/contribution-signal.svg" width="100%" alt="Animated contribution signal" />
@@ -89,11 +89,11 @@
   <a href="https://github.com/AkshayManojkp?tab=repositories"><img src="https://img.shields.io/github/last-commit/AkshayManojkp/AkshayManojkp?style=for-the-badge&color=FACC15&labelColor=070b1f&label=LAST%20UPDATE" alt="Last update" /></a>
 </p>
 
-## Principles
+<img src="https://img.shields.io/badge/🧭_PRINCIPLES-2B1400?style=for-the-badge&labelColor=2B1400&color=D2042D" />
 
 > Build clearly. Learn in public. Reduce complexity. Ship useful things.
 
-I care about clean interfaces, fast feedback loops, durable foundations, and technology that creates real leverage for people.
+>I care about clean interfaces, fast feedback loops, durable foundations, and technology that creates real leverage for people.
 
 ## Connect
 
