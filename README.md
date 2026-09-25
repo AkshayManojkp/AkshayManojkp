@@ -70,10 +70,11 @@
     
 </p>
 
-## Tools I use
+<img src="https://img.shields.io/badge/🛠️_TECH-ARSENAL-070b1f?style=for-the-badge&labelColor=070b1f&color=A78BFA" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,python,tailwind,git,github,figma,vercel&perline=7" alt="Technology icons" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/scattered-stack.svg" width="100%" alt="Scattered Tech Arsenal" />
+</div>
 </p>
 
 ## Contribution signal
