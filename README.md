@@ -1,11 +1,12 @@
 <div align="center">
-  <h1>AKSHAY MANOJ KP<h1>
+  <h1>アクシャイ公式 | AKSHAY MANOJ KP<h1>
+  <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/circuit-flow.svg" width="100%" alt="Akshay Manoj KP — Circuit Background" />
   <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/teramyst-hero.svg" width="100%" alt="TeraMyst futuristic developer command center" />
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F5D4&center=true&vCenter=true&width=920&lines=AI+product+builder;Full-stack+developer;Mechanical+engineer+mindset;Business+%7C+B2B+%7C+B2C+%7C+CRM;Exploring+systems+that+create+value" alt="Animated profile roles" />
-  <h2>TeraMyst</h2>
+  <h2>TMai</h2>
 </div>
 
 <p align="center">
