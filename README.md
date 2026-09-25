@@ -74,7 +74,7 @@ I’m Akshay Manoj KP — a builder working across software, AI, product design,
 </div>
 
 <p align="center">
-  <a href="https://github.com/AkshayManojkp?tab=overview"><img src="https://img.shields.io/github/commit-activity/y/AkshayManojkp?style=for-the-badge&color=00F5D4&labelColor=070b1f&label=COMMITS%20%2F%20YEAR" alt="Yearly commits" /></a>
+  <a href="https://github.com/AkshayManojkp?tab=overview"><img src="https://img.shields.io/github/commit-activity/y/AkshayManojkp/AkshayManojkp?style=for-the-badge&color=00F5D4&labelColor=070b1f&label=COMMITS%20%2F%20YEAR" alt="Yearly commits" /></a>
   <a href="https://github.com/AkshayManojkp?tab=overview"><img src="https://img.shields.io/github/commit-activity/m/AkshayManojkp/AkshayManojkp?style=for-the-badge&color=A78BFA&labelColor=070b1f&label=COMMITS%20%2F%20MONTH" alt="Monthly commits" /></a>
   <a href="https://github.com/AkshayManojkp?tab=repositories"><img src="https://img.shields.io/github/last-commit/AkshayManojkp/AkshayManojkp?style=for-the-badge&color=FACC15&labelColor=070b1f&label=LAST%20UPDATE" alt="Last update" /></a>
 </p>
