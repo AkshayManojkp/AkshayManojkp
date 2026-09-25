@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/AkshayManojkp?tab=followers"><img src="https://img.shields.io/github/followers/AkshayManojkp?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0f172a" alt="GitHub followers" /></a>
   <a href="https://github.com/AkshayManojkp?tab=repositories"><img src="https://img.shields.io/github/stars/AkshayManojkp?affiliations=OWNER&style=for-the-badge&color=f59e0b&labelColor=0f172a" alt="GitHub stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AkshayManojkp&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/commit-activity/y/AkshayManojkp?style=for-the-badge&color=0ea5e9&labelColor=0f172a&label=CONTRIBUTIONS" alt="Contributions in the past year" />
 </p>
 
 ## 👋 About me
@@ -75,6 +75,10 @@ I’m **Akshay Manoj KP**, a developer interested in building practical, polishe
   <a href="https://github.com/AkshayManojkp"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/akshaymanojkp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkshayManojkp&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=100&section=footer" width="100%" alt="Profile footer" />
