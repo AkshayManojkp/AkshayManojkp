@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" preserveAspectRatio="none">
   <defs>
-    <!-- ============ SOFT WAVE ============ -->
+    <!-- Soft Wave -->
     <linearGradient id="softWave" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#00F5D4" stop-opacity="0"/>
       <stop offset="50%"  stop-color="#00F5D4" stop-opacity="0.55"/>
       <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
     </linearGradient>
 
-    <!-- ============ FAINT CIRCUIT ============ -->
+    <!-- Faint Circuit -->
     <linearGradient id="faintCircuit" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%"   stop-color="#0b1230"/>
       <stop offset="100%" stop-color="#070b1f"/>
     </linearGradient>
 
-    <!-- ============ TEXT GLOW ============ -->
+    <!-- Text Glow -->
     <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="8" result="blur"/>
       <feMerge>
@@ -22,37 +22,17 @@
       </feMerge>
     </filter>
 
-    <!-- ============ EDGE FADES (all four sides) ============ -->
-
-    <!-- Top fade: page bg → transparent -->
-    <linearGradient id="fadeTop" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%"   stop-color="#050816" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#050816" stop-opacity="0"/>
-    </linearGradient>
-
-    <!-- Bottom fade: transparent → page bg -->
-    <linearGradient id="fadeBottom" x1="0%" y1="0%" x2="0%" y2="100%">
+    <!-- Radial Vignette (fades edges to transparent, not to a solid color) -->
+    <radialGradient id="vignette" cx="50%" cy="50%" r="75%">
       <stop offset="0%"   stop-color="#050816" stop-opacity="0"/>
+      <stop offset="60%"  stop-color="#050816" stop-opacity="0"/>
       <stop offset="100%" stop-color="#050816" stop-opacity="1"/>
-    </linearGradient>
-
-    <!-- Left fade: page bg → transparent -->
-    <linearGradient id="fadeLeft" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#050816" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#050816" stop-opacity="0"/>
-    </linearGradient>
-
-    <!-- Right fade: transparent → page bg -->
-    <linearGradient id="fadeRight" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#050816" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#050816" stop-opacity="1"/>
-    </linearGradient>
+    </radialGradient>
   </defs>
 
-  <!-- ============ BASE ============ -->
-  <rect width="1200" height="420" fill="#050816"/>
+  <!-- NO background rect — transparent canvas -->
 
-  <!-- ============ FAINT CIRCUIT TRACES ============ -->
+  <!-- Faint Circuit Traces -->
   <g stroke="url(#faintCircuit)" stroke-width="1.2" fill="none"
      stroke-linecap="square" stroke-linejoin="miter" opacity="0.35">
     <path d="M0 60  H280 L320 100 H640 L680 60  H1200"/>
@@ -67,7 +47,7 @@
     <path d="M1120 0 V180 L1160 220 V420"/>
   </g>
 
-  <!-- ============ NODES ============ -->
+  <!-- Nodes -->
   <g fill="#0e1a3a" opacity="0.5">
     <circle cx="280" cy="60" r="3"/><circle cx="640" cy="60" r="3"/>
     <circle cx="180" cy="140" r="3"/><circle cx="520" cy="140" r="3"/>
@@ -76,7 +56,7 @@
     <circle cx="560" cy="300" r="3"/><circle cx="960" cy="300" r="3"/>
   </g>
 
-  <!-- ============ SOFT WAVE ============ -->
+  <!-- Soft Wave -->
   <path d="M0 260 Q300 190 600 260 T1200 260" fill="none"
         stroke="url(#softWave)" stroke-width="2" filter="url(#textGlow)">
     <animate attributeName="d"
@@ -86,10 +66,7 @@
              dur="10s" repeatCount="indefinite"/>
   </path>
 
-  <!-- ============ DARK SCRIM (focus area for text) ============ -->
-  <rect x="0" y="120" width="1200" height="150" fill="#050816" opacity="0.7"/>
-
-  <!-- ============ MAIN NAME ============ -->
+  <!-- Main Name -->
   <text x="600" y="205"
         font-family="'Inter','Helvetica Neue',Arial,sans-serif"
         font-size="72"
@@ -101,7 +78,7 @@
     AKSHAY MANOJ KP
   </text>
 
-  <!-- ============ JAPANESE SUBTITLE ============ -->
+  <!-- Japanese Subtitle -->
   <text x="600" y="252"
         font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic',sans-serif"
         font-size="22"
@@ -112,21 +89,18 @@
     アクシャイ・マノージ・KP
   </text>
 
-  <!-- ============ ACCENT DOTS ============ -->
+  <!-- Accent Dots -->
   <circle cx="450" cy="275" r="2" fill="#00F5D4" opacity="0.8"/>
   <circle cx="750" cy="275" r="2" fill="#00F5D4" opacity="0.8"/>
 
-  <!-- ============ EDGE FADES (drawn last = on top of everything) ============ -->
+  <!-- Radial Vignette (fades edges to transparent) -->
+  <!-- Note: this fades to #050816 at edges, but if the page bg is different, you'll see edges. -->
+  <!-- Better: use transparent → transparent, but then no fade. -->
+  <!-- So instead, we use a radial gradient that goes from transparent in center to #050816 at edges. -->
+  <!-- But if the page bg is not #050816, it will still show a color difference. -->
+  <!-- The cleanest solution: use no vignette at all, just let the circuit lines naturally end. -->
+  <!-- Since circuit lines are faint, they won't create a hard rectangle. -->
 
-  <!-- Top edge fade (height: 90px) -->
-  <rect x="0" y="0" width="1200" height="90" fill="url(#fadeTop)"/>
-
-  <!-- Bottom edge fade (height: 130px) -->
-  <rect x="0" y="290" width="1200" height="130" fill="url(#fadeBottom)"/>
-
-  <!-- Left edge fade (width: 160px) -->
-  <rect x="0" y="0" width="160" height="420" fill="url(#fadeLeft)"/>
-
-  <!-- Right edge fade (width: 160px) -->
-  <rect x="1040" y="0" width="160" height="420" fill="url(#fadeRight)"/>
+  <!-- Remove the vignette rect to keep transparent -->
+  <!-- <rect x="0" y="0" width="1200" height="420" fill="url(#vignette)"/> -->
 </svg>
