@@ -95,15 +95,9 @@
 
 >I care about clean interfaces, fast feedback loops, durable foundations, and technology that creates real leverage for people.
 
-## Connect
-
-<p align="center">
-  <a href="https://akshayofficial.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=070b1f" alt="Portfolio" /></a>
-  <a href="https://github.com/AkshayManojkp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/akshay-manoj-kp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://bsky.app/profile/akshaymanoj.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
-  <a href="https://developers.facebook.com/Akshaymanojkp"><img src="https://img.shields.io/badge/Facebook%20Developers-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Developers" /></a>
-  <a href="https://www.instagram.com/akshaymanojkp/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/connect-glitch.svg" width="95%" alt="Connect" />
+</div>
 </p>
 
 <div align="center">
