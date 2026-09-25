@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-label="Animated contribution graph with moving snake">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#052e2b"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="220" rx="18" fill="url(#bg)"/>
+  <text x="42" y="38" fill="#22c55e" font-family="monospace" font-size="16">CONTRIBUTION MATRIX // LIVE</text>
+  <g transform="translate(42 62)">
+    <g fill="#064e3b">
+      <rect x="0" y="0" width="18" height="18" rx="3"/><rect x="24" y="0" width="18" height="18" rx="3"/><rect x="48" y="0" width="18" height="18" rx="3"/><rect x="72" y="0" width="18" height="18" rx="3"/><rect x="96" y="0" width="18" height="18" rx="3"/>
+      <rect x="0" y="24" width="18" height="18" rx="3"/><rect x="24" y="24" width="18" height="18" rx="3" fill="#166534"/><rect x="48" y="24" width="18" height="18" rx="3" fill="#22c55e"/><rect x="72" y="24" width="18" height="18" rx="3"/><rect x="96" y="24" width="18" height="18" rx="3" fill="#16a34a"/>
+      <rect x="0" y="48" width="18" height="18" rx="3" fill="#16a34a"/><rect x="24" y="48" width="18" height="18" rx="3"/><rect x="48" y="48" width="18" height="18" rx="3" fill="#15803d"/><rect x="72" y="48" width="18" height="18" rx="3" fill="#22c55e"/><rect x="96" y="48" width="18" height="18" rx="3"/>
+      <rect x="0" y="72" width="18" height="18" rx="3"/><rect x="24" y="72" width="18" height="18" rx="3" fill="#22c55e"/><rect x="48" y="72" width="18" height="18" rx="3"/><rect x="72" y="72" width="18" height="18" rx="3" fill="#16a34a"/><rect x="96" y="72" width="18" height="18" rx="3"/>
+      <rect x="0" y="96" width="18" height="18" rx="3" fill="#15803d"/><rect x="24" y="96" width="18" height="18" rx="3"/><rect x="48" y="96" width="18" height="18" rx="3" fill="#22c55e"/><rect x="72" y="96" width="18" height="18" rx="3"/><rect x="96" y="96" width="18" height="18" rx="3" fill="#166534"/>
+    </g>
+    <path d="M-6 9 C70 9 70 57 145 57 S220 105 295 105 S370 33 445 33 S520 81 595 81 S670 9 745 9 S820 57 895 57" fill="none" stroke="#67e8f9" stroke-width="7" stroke-linecap="round" filter="url(#glow)" stroke-dasharray="34 1000">
+      <animate attributeName="stroke-dashoffset" from="0" to="-1060" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <circle r="8" fill="#facc15" filter="url(#glow)"><animateMotion dur="6s" repeatCount="indefinite" path="M-6 9 C70 9 70 57 145 57 S220 105 295 105 S370 33 445 33 S520 81 595 81 S670 9 745 9 S820 57 895 57"/></circle>
+  </g>
+  <text x="42" y="205" fill="#94a3b8" font-family="monospace" font-size="13">less activity</text><text x="1070" y="205" fill="#94a3b8" font-family="monospace" font-size="13">more activity</text>
+</svg>
