@@ -1,11 +1,23 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/circuit-flow.svg" width="100%" alt="Akshay Manoj KP — Circuit Background" />
+  <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/circuit-flow.svg" width="100%" alt="Akshay Manoj KP" />
+
+  <!-- ============ PREMIUM TECH BADGES ============ -->
+  <p>
+    <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-070b1f?style=for-the-badge&logo=next.js&logoColor=00F5D4" alt="Next.js" /></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-070b1f?style=for-the-badge&logo=typescript&logoColor=A78BFA" alt="TypeScript" /></a>
+    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-070b1f?style=for-the-badge&logo=tailwindcss&logoColor=00F5D4" alt="Tailwind CSS" /></a>
+    <a href="https://www.framer.com/motion/"><img src="https://img.shields.io/badge/Framer%20Motion-070b1f?style=for-the-badge&logo=framer&logoColor=FACC15" alt="Framer Motion" /></a>
+    <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-070b1f?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel" /></a>
+    <a href="https://www.deepseek.com/"><img src="https://img.shields.io/badge/DeepSeek-070b1f?style=for-the-badge&logo=openai&logoColor=00F5D4" alt="DeepSeek" /></a>
+  </p>
+
+  <!-- ============ HERO ============ -->
   <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/main/assets/teramyst-hero.svg" width="100%" alt="TeraMyst futuristic developer command center" />
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F5D4&center=true&vCenter=true&width=920&lines=AI+product+builder;Full-stack+developer;Mechanical+engineer+mindset;Business+%7C+B2B+%7C+B2C+%7C+CRM;Exploring+systems+that+create+value" alt="Animated profile roles" />
-  <h2>TMai</h2>
+  <h2>TeraMyst</h2>
 </div>
 
 <p align="center">
