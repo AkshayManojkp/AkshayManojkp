@@ -90,7 +90,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/📊_CONTRIBUTION-SIGNAL-2B1400?style=for-the-badge&labelColor=2B1400&color=EA580C" alt="Contribution signal" />
   <br /><br />
-  <img src="assets/contribution-signal.svg" width="100%" alt="Contribution signal" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/AkshayManojkp/AkshayManojkp/output/snake-dark.svg" width="100%" alt="Contribution graph being eaten by a snake, regenerated from real activity twice a day" />
+  </picture>
+  <br />
+  <sub><i>consistency compounds into capability</i></sub>
 </div>
 
 <br />
