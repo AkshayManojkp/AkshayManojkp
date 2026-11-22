@@ -33,7 +33,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/🛰️_CURRENT-ORBIT-070b1f?style=for-the-badge&labelColor=070b1f&color=DC2626" alt="Current orbit" />
   <br /><br />
-  <img src="https://img.shields.io/badge/🔨_BUILDING-AI_Products_·_Full--stack_·_Automation-00F5D4?style=for-the-badge&labelColor=070b1f" alt="Building: AI products, full-stack, automation" />
+  <img src="https://img.shields.io/badge/🔨_BUILDING-TMai_·_TeraMyst_AI_assistant-00F5D4?style=for-the-badge&labelColor=070b1f" alt="Building: TMai, the TeraMyst AI assistant" />
   <br />
   <img src="https://img.shields.io/badge/📡_LEARNING-ML_Systems_·_Architecture_·_Backend-A78BFA?style=for-the-badge&labelColor=070b1f" alt="Learning: ML systems, architecture, backend" />
   <br />
