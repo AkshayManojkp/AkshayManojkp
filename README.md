@@ -106,6 +106,14 @@
 
 <div align="center">
   <img src="assets/connect-glitch.svg" width="95%" alt="Connect · Collaborate · Build · Say hello" />
+  <br />
+  <a href="mailto:akshaymanojkp@outlook.com"><img src="https://img.shields.io/badge/Email-EA580C?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=070b1f" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/akshay-manoj-kp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=070b1f" alt="LinkedIn" /></a>
+  <a href="https://bsky.app/profile/akshaymanoj.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=070b1f" alt="Bluesky" /></a>
+  <a href="https://www.instagram.com/akshaymanojkp/"><img src="https://img.shields.io/badge/Instagram-D2042D?style=for-the-badge&logo=instagram&logoColor=white&labelColor=070b1f" alt="Instagram" /></a>
+  <a href="https://akshay-portfolio-lake-eight.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=070b1f" alt="Portfolio" /></a>
+  <br />
+  <sub>📍 Dubai, UAE · open to collaborations on AI products and useful tools</sub>
 </div>
 
 <div align="center">
