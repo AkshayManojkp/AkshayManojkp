@@ -55,8 +55,18 @@
 <div align="center">
   <img src="https://img.shields.io/badge/🚀_CURRENT-FOCUS-070b1f?style=for-the-badge&labelColor=070b1f&color=00F5D4" alt="Current focus" />
   <br /><br />
-  <img src="assets/projects-matrix.svg" width="100%" alt="Featured projects" />
+  <a href="https://github.com/AkshayManojkp/teramystai"><img src="assets/cards/tmai.svg" width="100%" alt="TMai — TeraMyst's AI assistant" /></a>
+  <br />
+  <a href="https://akshay-portfolio-lake-eight.vercel.app"><img src="assets/cards/portfolio.svg" width="49%" alt="Portfolio — In Search of Magic" /></a>
+  <a href="https://github.com/AkshayManojkp/Tera"><img src="assets/cards/tera.svg" width="49%" alt="Tera — TeraMyst product foundation" /></a>
 </div>
+
+<p align="center">
+  <sub><b>EXPLORING &amp; CONTRIBUTING</b> &nbsp;·&nbsp;
+  <a href="https://github.com/AkshayManojkp/open-higgsfield">open-higgsfield</a> — image &amp; video generation studio &nbsp;·&nbsp;
+  <a href="https://github.com/AkshayManojkp/personal-agent-template">personal-agent-template</a> — durable personal AI agent &nbsp;·&nbsp;
+  <a href="https://github.com/AkshayManojkp/Team2-app">Team2-app</a> — Next.js + MongoDB starter</sub>
+</p>
 
 <br />
 
